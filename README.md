@@ -20,8 +20,8 @@ This program converts League of Legends from Chinese to English.
 **Backup Warning:**  
 Please back up your configuration files before using this program.
 
-**Usage at Your Own Risk:**  
-This tool is provided "as-is" without any warranty or guarantees of functionality. Use it at your own risk.
+**User Responsibility:**  
+Users are solely responsible for how they use this tool. We disclaim any liability for misuse, abuse, or violation of third-party terms caused by the user.
 
 **Non-Commercial & Public Interest Purpose:**  
 This program is not intended for commercial use. It was created purely for educational and public-interest purposes — to demonstrate a potential configuration-based vulnerability that allows language modification in the League of Legends client.  
